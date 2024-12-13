@@ -1,0 +1,11 @@
+[project]
+name = "data-analyses-transit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "great-tables>=0.14.0",
+    "polars>=1.17.1",
+    "pyarrow>=18.1.0",
+]
